@@ -33,7 +33,7 @@ makes it much easier for a goblin to craft their own food!
 The foundation of most all goblin dishes, a good bone stock makes anything and everything taste so much better 
 and so much healither. Simple to make and simple to store!
 
-* Tools *
+*Tools*
 
 * Pressure Cooker or Crock Pot
 * Something to squish garlic
@@ -50,6 +50,9 @@ and so much healither. Simple to make and simple to store!
 
  * Dried Star Anise (usually found in an asian market, or perhaps the seasoning aisle of a grocery store)
  * Bay Leaf
+
+_Notice we do not add salt here! That is because this is an ingredient to cook other foods, so we don't want to risk ruining a future dish because we 
+didn't salt (also called seasoning) correctly!_
 
 *Crafting*
 
@@ -78,4 +81,52 @@ and so much healither. Simple to make and simple to store!
   without burning yourself, you should be able to now safely stick the pot of stock in the 
   fridge to chill the rest of the way. 
 
+### Goblin Ketchup
 
+*Tools*
+
+  * Pressure Cooker w/ stainless steel pot OR Stainless steel pan
+  * Blender ( the stick immersion blenders are best )
+  * Can Opener
+  * Thing to scoup out tomato sauce or paste from can (butter knife for example)
+  * Wooden spoon
+
+*Ingredients*
+
+  * Onion
+  * Olive Oil
+  * Can of tomato paste or sauce
+  * Fistful of Dates
+  * 1 Cup of Stock
+  * Paprika
+  * Salt
+
+  Extra Awesome but optional
+  
+  * Star Anise
+  * Bay Leaf
+  * Tequila
+  
+*Crafting*
+
+  1. Heat stainless steel pot/pan over medium/low heat (too hot an the olive oil will burn, which is bad)
+  2. Cut onion up
+  3. Open can of tomato sauce/paste
+  4. Open lid of Olive oil
+  5. Put fistful of onions in one hand and hold the olive oil in the other...
+  6. Put a dash of olive oil in the hot pan followed by the onions! 
+  7. Stir about for a moment to coat onions
+  8. Let onions cook until you begin to notice little brown bits sticking to the pan
+  9. Once their is a healthy layer of brown bits:
+    * (Optional) Pour in tequila and use wooden spoon scrape up the brown bits, let it cook down, THEN:
+  10. Dump cup of stock into the pan, scrape up brown onion bits with wooden spoon. 
+  11. Pour can of tomatoes into stock
+  12. Add some paprika, the bay leaf, the anise, and your fistful of dates. 
+  13. Then:
+    * If using a pressure cooker, put lid on, seal, and cook for 12 minutes, quick release when finished
+    * If using pan, set to low, cover, and cook till things just feel right
+  14. When finished cooking, let it cool
+    * You can put the pot in some cold water and stir to expedite the process
+  15. Take out bay leaf and anise star, those will not taste good to any unlucky goblins that eat those
+  16. Plug in blender, and blend the mixture!
+  17. Add a pinch of salt, stir, taste, and repeat if needed until delicious!
