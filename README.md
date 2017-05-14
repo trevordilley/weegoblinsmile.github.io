@@ -33,6 +33,13 @@ makes it much easier for a goblin to craft their own food!
 The foundation of most all goblin dishes, a good bone stock makes anything and everything taste so much better 
 and so much healither. Simple to make and simple to store!
 
+* Tools *
+
+* Pressure Cooker or Crock Pot
+* Something to squish garlic
+* A second pot to pour the finished stock into
+* A sieve to catch all the little bits during pouring
+
 *Ingredients*
 
  * Bones (ex. Left overs from costco chicken, beef soup bones from winco)
@@ -58,4 +65,17 @@ and so much healither. Simple to make and simple to store!
   8. Close pressure cooker/crock pot and:
     * Set to 2 hours in pressure cooker 
     * Set to LOW in crock-pot and wait 8 hours/overnight
+  9. Set the second pot into a kitchen sink
+  10. Ready the sieve over the second pot
+  11. Lift the stock-filled pot out of the pressure cooker/crockpot and
+  carefully pour through the sieve into the second pot. 
+  
+  To quickly cool the stock...
+  
+  1. Plug the kitchen sink
+  2. Pour cold water into the kitchen sink AROUND the filled pot of stock
+  3. Stir the stock continuously until you can stick a (very) clean finger into the stock
+  without burning yourself, you should be able to now safely stick the pot of stock in the 
+  fridge to chill the rest of the way. 
+
 
