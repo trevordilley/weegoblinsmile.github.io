@@ -2,6 +2,7 @@ The Wee Goblin Diet (Lake's diet)
 ================================
 
 Wee Goblins...
+
 | _do not eat_ | eat a little of | *as much as they like* |
 | --- | --- | --- |
 | Processed/Refined Sugar| Red Meats | Beans |
