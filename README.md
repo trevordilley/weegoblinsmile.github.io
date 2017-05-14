@@ -1,38 +1,18 @@
 The Wee Goblin Diet (Lake's diet)
 ================================
 
-### Wee Goblin's do not eat:
-
-  * Processed/Refined Sugar
-  * Gluten
-  * Dairy
-  * Rice
-  * Soy
-  * Corn-based Products
-  * Vegetable Oil
-  * Canola Oil
-  * Processed or artificial foods
-
-### Wee Goblin's eat a little of:
-  
-  * Red Meats
-  * Maple Syrup
-  * Honey
-  * Banana
-  * Eggs
-  * Olive Oil
-  * Coconut oil
-
-### Wee Goblin's eat as much as they like
-
-  * Beans
-  * Quinoa
-  * Lentils
-  * Veggies
-  * Fruits
-  * Berries
-  * Oatmeal
-  * Fish
+Wee Goblins...
+| _do not eat_ | eat a little of | *as much as they like* |
+|---|---|---|
+| Processed/Refined Sugar| Red Meats | Beans |
+| Gluten| Maple Syrup | Quinoa |
+| Dairy| Honey | Lentils |
+| Rice| Banana | Veggies |
+| Soy| Eggs | Fruits |
+| Corn-based Products|| Berries |
+| Vegetable Oil|| Oatmeal |
+| Canola Oil|| Fish |
+| Processed or artificial foods|||
 
 Goblin Food and Recipes
 -----------------------
