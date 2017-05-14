@@ -1,7 +1,7 @@
 The Wee Goblin Diet (Lake's diet)
 ================================
 
-== Wee Goblin's do not eat:
+### Wee Goblin's do not eat:
 
   * Processed/Refined Sugar
   * Gluten
@@ -13,9 +13,8 @@ The Wee Goblin Diet (Lake's diet)
   * Canola Oil
   * Processed or artificial foods
 
-
-== Wee Goblin's eat a little of:
-
+### Wee Goblin's eat a little of:
+  
   * Red Meats
   * Maple Syrup
   * Honey
@@ -24,7 +23,7 @@ The Wee Goblin Diet (Lake's diet)
   * Olive Oil
   * Coconut oil
 
-== Wee Goblin's eat as much as they like
+### Wee Goblin's eat as much as they like
 
   * Beans
   * Quinoa
@@ -43,22 +42,17 @@ Many of these foods are still craftable without one (a crock pot often suffices)
 the convenience and speed of a pressure cooker makes these recipes fly by! Which
 makes it much easier for a goblin to craft their own food!
 
-= Approved Wee Goblin Cooking Oils
+*Approved Wee Goblin Cooking Oils*
  
  * Coconut Oil
  * Olive Oil
 
-= Snacks
-
-* Berries
-* Vegetables
-
-== Stock
+### Stock
 
 The foundation of most all goblin dishes, a good bone stock makes anything and everything taste so much better 
 and so much healither. Simple to make and simple to store!
 
-=== Ingredients
+*Ingredients*
 
  * Bones (ex. Left overs from costco chicken, beef soup bones from winco)
  * Head of Garlic
@@ -69,7 +63,7 @@ and so much healither. Simple to make and simple to store!
  * Dried Star Anise (usually found in an asian market, or perhaps the seasoning aisle of a grocery store)
  * Bay Leaf
 
-=== Crafting
+*Crafting*
 
   1. Put bones into pressure cooker/crock pot
   2. Take out a cutting board and big knife or spatula
