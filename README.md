@@ -326,12 +326,52 @@ didn't salt (also called seasoning) correctly!_
   *Crafting*
 
 ### Toasty Goblin Taters
-
+  
   *Tools*
+
+  Knife
+  Cutting Board
+  Pot
+  Cookie Sheet
+  Wood Spoon
+  Big Bowl
 
   *Ingredients*
 
+  Baking Soda
+  Potatos
+  Salt
+  Pepper
+  Olive Oil
+
   *Crafting*
+
+  1. Turn oven to 350 degree farenheit
+  2. Fill pot with water
+  3. Add Salt
+  4. Add a couple pinches of baking soda
+  5. Turn on heat under pot
+  6. Wash each potato
+  7. Cut each potato in half length-wise, then cut those halves in half length-wise, 
+  then cut the quaters into sections width-wise.
+  8. Add potatos to boiling water
+  9. Let potatos cook until a fork pokes through easily
+  10. Drain water from pot when potatos are cooked
+  11. Put olive oil into big bowl
+  12. Put salt and pepper into big bowl
+  13. Pour dried-ish potatos into big bowl
+  14. Toss potatos in oil until a nice mushiness develops around the potatos (the
+  baking soda broke down the starches on the outside, making a nice goop develop 
+  on the exterior of the potatos)
+  15. When satisfactorily tossed, dump potatos onto cookie sheet
+  16. Spread about with a wooden spoon till evenly dispersed
+  17. Sprinkle a little more salt and pepper on potatos
+  18. Put cookie sheet in oven
+  19. Set timer for 30 minutes
+  20. After 30 minutes take out of oven and flip potatos to an unbrowned side
+  21. Put back in over and set for 10 minutes.
+  22. Flip and continue cooking until potatos are satisfactorily crunchy and delicious
+  23. Eat!
 
 ### Pasta Sauce
 
