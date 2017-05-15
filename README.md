@@ -42,6 +42,8 @@ makes it much easier for a goblin to craft their own food!
   * Oatmeal (you can often get Gluten Free Oatmeal in the bulk section of winco)
   * Frozen Berries (blueberries are a favorite!)
   * Mushrooms
+  * Olive Oil
+  * Unrefined Coconut Oil
   * Dates
   * Figs (Look to make sure they don't have sulfates or anything like that, some people have reactions
   to that stuff)
@@ -50,6 +52,8 @@ makes it much easier for a goblin to craft their own food!
   * Oranges
   * Apples
   * Grapes
+  * Chia Seeds
+  * Hemp Hearts
   * Pepper Corns
   * Bay Leaves
   * Garlic
