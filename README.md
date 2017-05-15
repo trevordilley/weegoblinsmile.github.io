@@ -284,9 +284,38 @@ didn't salt (also called seasoning) correctly!_
 
   *Tools*
 
+  * Pan
+  * Pot
+  * Wooden Spoon
+  * 1 Cup measuring cup
+  * Wire-mesh sieve
+
   *Ingredients*
 
+  Quinoa
+  Stock
+  Salt
+
   *Crafting*
+  
+  1. Put 2 Cups of stock into pot 
+  2. Put 1 Cup of quinoa into wire mesh sieve
+  3. Put under kitchen sink and spray with hose part till you're pretty
+  sure there is no way all the quinoa hasn't been given a good rinsing
+  4. Put quinoa into pan
+  5. Turn heat on under pan, we're going to toast the quinoa
+  6. Use wooden spoon to move quinoa about regularly, taking brief pauses
+  to let heat work on quinoa. This is a delicate dance that takes a little practice
+  7. When quinoa smells nutty and the color has developed into a pleasant yellow pour into
+  pot of stock.
+  9. Bring Pot to roiling boil
+  10. Once at roiling boil, lower to a simmer
+  11. Do not cover!
+  12. Let cook until all liquid has mostly cooked out
+  13. Cover!
+  14. Turn off heat
+  15. Wait 10-15 minutes for quinoa to absorb rest of water. 
+  16. Fluff and enjoy!
 
 ### Oven-Baked Chicken Wings with Mable-Syrup Mustard Sauce
 
