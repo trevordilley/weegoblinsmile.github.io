@@ -240,13 +240,37 @@ didn't salt (also called seasoning) correctly!_
   35. When time has reached, unseal the pressure cooker (turn the little knob on the top away from "Sealing")
   36. Open pressure cooker, shred pork, and eat!
 
-  ### Roasted Brussel Sprouts
+### Roasted Brussel Sprouts
 
   *Tools*
+  
+  Knife
+  Cutting board
+  Cookie Sheet
+  Big Bowl
 
   *Ingredients*
 
+  Brussel Sprouts
+  Salt
+  Pepper
+  Olive Oil
+
   *Crafting*
+
+  1. Cut brussel sprouts into halves
+  2. Set oven for 350 degrees Farenheit
+  3. Put halves into big bowl
+  4. Pour a few table spoons of Olive Oil into bowl
+  5. Add some salt and pepper till you're happy
+  6. Toss sprouts in oil
+  7. When you're happy they're all covered with oil and salt and pepper dump onto cookie sheet
+    * If you're feeling a little extra OCD, put all the halves face-down in pan to optimize browning
+  8. Put brussel sprouts into hot over
+  9. Set timer for 30 minutes
+  10. After 30 minutes, check on the sprouts. Check every 10 minutes or so until done.
+  11. EAT!
+
 
 ### Goblin Palak
 
