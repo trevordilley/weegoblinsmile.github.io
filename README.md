@@ -15,6 +15,14 @@ Wee Goblins...
 | Canola Oil | | Fish |
 | Processed or artificial foods| | |
 
+Wee Goblin Caretakers Drink...
+
+  * Water
+  * Coffee (no cream, no sugar, just pain)
+  * Water
+  * Tea
+  * Did I say water?
+
 Goblin Food and Recipes
 -----------------------
 
