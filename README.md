@@ -195,14 +195,14 @@ didn't salt (also called seasoning) correctly!_
   2. Pat Pork Dry
   3. Toss Pork in Salt
   4. Cut onion up roughly 
-  5.. Open can of tomato paste
-  6.. Heat Stainless Steel Pot to Medium Heat
-  7... Uncap Olive Oil Bottle
-  8... Prepare to move very fast
-  9... Put pork cube in other hand
-  10.. Make sure you're ready to be very quick
-  11... Pour a tablespoon or so olive oil into hot pan
-  11... Quick! Place the pork cubes deliberately in the hot oil!
+  5. Open can of tomato paste
+  6. Heat Stainless Steel Pot to Medium Heat
+  7. Uncap Olive Oil Bottle
+  8. Prepare to move very fast
+  9. Put pork cube in other hand
+  10. Make sure you're ready to be very quick
+  11. Pour a tablespoon or so olive oil into hot pan
+  11. Quick! Place the pork cubes deliberately in the hot oil!
   12. Pork is going sizzle and STICK to the pot. This is okay.
   13. Now we want to brown each side of the pork cubes. Let it sizzle 
   and watch the edges. When you see one that is brown and you feel a little
