@@ -85,7 +85,7 @@ makes it much easier for a goblin to craft their own food!
 ### Stock
 
 The foundation of most all goblin dishes, a good bone stock makes anything and everything taste so much better 
-and so much healither. Simple to make and simple to store!
+and so much healthier! Simple to make and simple to store!
 
 *Tools*
 
