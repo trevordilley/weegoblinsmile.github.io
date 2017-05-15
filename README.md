@@ -64,7 +64,12 @@ makes it much easier for a goblin to craft their own food!
   * Various fresh herbs for whatever you may cook that night. 
   * A protein to cook for meals
 
+*Quick Goblin Snacks*
 
+  * Figs
+  * Goblin Power Bars (see recipe below)
+  * Fruits
+  * Veggies
 
 ### Stock
 
