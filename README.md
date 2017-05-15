@@ -163,10 +163,82 @@ didn't salt (also called seasoning) correctly!_
 ### Pulled Pork
 
   *Tools*
+  
+  * Knife
+  * Cutting Board
+  * Pressure Cooker 
+  * Stainless Steel Pot (comes with pressure cooker)
+  * Heat-Safe Tongs
+  * Heat-Safe Spatula
+  * Blender (immersion blender is best)
+  * Extra plate
+  * Wooden Spoon
+  * Can Opener
 
   *Ingredients*
 
+  * Pork Shoulder
+  * Stock
+  * Tomato Paste
+  * Onion
+  * Red Wine
+  * Salt
+  * Paprika
+  * Pepper
+  * Bay Leaf
+  * Olive Oil
+  * Fistful of Dates
+
   *Crafting*
+
+  1. Cut Pork into cubes
+  2. Pat Pork Dry
+  3. Toss Pork in Salt
+  4. Cut onion up roughly 
+  5.. Open can of tomato paste
+  6.. Heat Stainless Steel Pot to Medium Heat
+  7... Uncap Olive Oil Bottle
+  8... Prepare to move very fast
+  9... Put pork cube in other hand
+  10.. Make sure you're ready to be very quick
+  11... Pour a tablespoon or so olive oil into hot pan
+  11... Quick! Place the pork cubes deliberately in the hot oil!
+  12. Pork is going sizzle and STICK to the pot. This is okay.
+  13. Now we want to brown each side of the pork cubes. Let it sizzle 
+  and watch the edges. When you see one that is brown and you feel a little
+  uncomfortable, go ahead and use your spatula and tongs to pry a piece of 
+  pork off to check it. If it's not orange-y brown and incredibly satisfying 
+  to look at, put it back on the oil and continue waiting. Use this piece as your
+  reference piece when you want to check again. 
+  14. Once all sides of the pork have browned satisfactorily, remove pork from pot
+  and place on the extra plate to set aside. 
+  15. Add chopped onion to pot.
+  16. Use wooden spoon to scrape along bottom of pot to remove the delicious brown bits
+  the pork left. As the onion cooks, it's water will release and deglaze the pan, making
+  it easier to scrape the bits off the bottom with the spoon. 
+  17. Let the onion cook down now, until you begin to notice little brown bits on the
+  bottom of the pot. 
+  18. Splash a couple cups or so of red wine into the pot
+  19. Use wooden spoon scrape delicious onion bits off bottom of pot now
+  20. Pour tomato paste into pot.
+  21. Stir it about
+  22. Let pot cook with wine and paste in it until you begin to notice the
+  paste sticking to the bottom of the pan AND it's hard to scrape it off.
+  23. Pour a couple cups of Stock into pot
+  24. Scrape up tomato bits stuck to bottom of pan
+  25. Cook stock down till it's pleasantly thick. 
+  26. Throw in fistful of dates and take pot off the heat. 
+  27. Put pot in a kitchen sink filled with cold water and stir pot until it's not
+  too hot to blend. 
+  28. Blend cooled pot of sauce till smooth
+  29. Put pot into pressure cooker
+  30. Add a little bit of stock to make sure it has enough water to steam. 
+  31. Add that pork you cooked 20 steps ago back into the pot and stir around to cover
+  32. Seal pressure cooker
+  33. Set for 45 minutes
+  34. Wait 45 minutes
+  35. When time has reached, unseal the pressure cooker (turn the little knob on the top away from "Sealing")
+  36. Open pressure cooker, shred pork, and eat!
 
   ### Roasted Brussel Sprouts
 
