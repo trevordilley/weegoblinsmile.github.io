@@ -70,6 +70,9 @@ makes it much easier for a goblin to craft their own food!
   * Goblin Power Bars (see recipe below)
   * Fruits
   * Veggies
+  * Roasty Goblin Potatos w/ Goblin Ketchup
+  * Roasted Brussel Sprouts
+  * Roasted Vegetables (same as brussel sprouts but with other vegetables as well)
 
 ### Stock
 
@@ -337,6 +340,13 @@ didn't salt (also called seasoning) correctly!_
   10. After 30 minutes, check on the sprouts. Check every 10 minutes or so until done.
   11. EAT!
 
+### Goblin Power Bars 
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
 
 ### Goblin Palak
 
