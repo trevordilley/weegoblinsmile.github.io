@@ -29,7 +29,38 @@ makes it much easier for a goblin to craft their own food!
  * Olive Oil
 
 *Things Goblins buy at the store*
-@todo
+
+  * Frozen Veggies (Frozen and canned fruits/veggies are often very good because they were picked at their ripest and immediately processed)
+  * Tomoto Sauce and Paste
+  * Onions
+  * Potatos
+  * Quinoa
+  * Bean pasta (Trader Joes has these reliably)
+  * Beef Soup bones
+  * Frozen Split pigs feet
+  * Dried Beans
+  * Oatmeal (you can often get Gluten Free Oatmeal in the bulk section of winco)
+  * Frozen Berries (blueberries are a favorite!)
+  * Mushrooms
+  * Dates
+  * Figs (Look to make sure they don't have sulfates or anything like that, some people have reactions
+  to that stuff)
+  * Bananas
+  * Plantains
+  * Oranges
+  * Apples
+  * Grapes
+  * Pepper Corns
+  * Bay Leaves
+  * Garlic
+  * Salt
+  * Baking Soda
+  * Baking Powder
+  * Paprika 
+  * Various fresh herbs for whatever you may cook that night. 
+  * A protein to cook for meals
+
+
 
 ### Stock
 
@@ -83,6 +114,32 @@ didn't salt (also called seasoning) correctly!_
   3. Stir the stock continuously until you can stick a (very) clean finger into the stock
   without burning yourself, you should be able to now safely stick the pot of stock in the 
   fridge to chill the rest of the way. 
+
+### Goblin Oatmeal
+
+*Tools*
+
+  * Pot
+  * Wooden Spoon
+
+*Ingredients*
+
+  * Water
+  * Oatmeal
+  * Salt
+  * Frozen Blueberries
+  * Various additives (hemp hearts, chia seeds, pumpkin seeds, etc.)
+
+*Crafting*
+
+  1. Pour enough water in pot to cover bottom and alittle more
+  2. Heat water
+  3. Add a little pinch of salt
+  4. Add oatmeal until you think another handful is a bad idea. 
+  5. Cook till you see if thicken, adding a little water here and there if you want
+  6. Once cooked to satisfaction, turn off heat and throw in a fistful of blueberries and additives
+  7. Stir about till blueberries incorporated
+  8. Cool and serve!
 
 ### Goblin Ketchup
 
