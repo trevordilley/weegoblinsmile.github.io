@@ -1,0 +1,41 @@
+# All java .class files
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+# *.jar -- these are currently baked in
+#*.war
+#*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Build properties
+version.properties
+
+# Skip build files
+build/*
+storage/*
+WEB-INF/configuration/current/*
+
+# Vim swap files and backups
+.*.sw[a-z]
+*~
+
+# IntelliJ
+.idea
+WEB-INF.iml
+
+# Integration Test Screen caps
+captures/
+
+WEB-INF/out/*
+
+#gradle
+.gradle
+*.iml
+
+#OSX tomfoolery
+.DS_Store
