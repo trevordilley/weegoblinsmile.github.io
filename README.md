@@ -28,6 +28,9 @@ makes it much easier for a goblin to craft their own food!
  * Coconut Oil
  * Olive Oil
 
+*Things Goblins buy at the store*
+@todo
+
 ### Stock
 
 The foundation of most all goblin dishes, a good bone stock makes anything and everything taste so much better 
@@ -130,3 +133,87 @@ didn't salt (also called seasoning) correctly!_
   15. Take out bay leaf and anise star, those will not taste good to any unlucky goblins that eat those
   16. Plug in blender, and blend the mixture!
   17. Add a pinch of salt, stir, taste, and repeat if needed until delicious!
+
+  ### Goblin Beans
+
+  *Tools*
+  
+  * Pressure Cooker/Crock Pot
+
+  *Ingredients*
+
+  * Salt
+  * Water
+  * Dry Beans (red beans are an excellent choice)
+  * Dried Star Anise (optional)
+  * Bay Leaf (optional)
+
+  *Crafting*
+
+  1. Pour a little less beans than you think you'll eat into your selected pot (they expand a surprising amount)
+  2. Pour water into pot
+  3. Pour a slightly uncomfortable amount of salt in the water
+  4. Throw in bay leaf and some star anise if they're on hand
+  5. To cook:
+    * If pressure cooker, seal and set to 45 minutes
+    * If crock pot, set to low and leave overnight
+  6. Drain water (we didn't use stock but ultimately it would be wasted on this step)
+  7. EAT!
+
+  ### Pulled Pork
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Roasted Brussel Sprouts
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Goblin Palak
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Quinoa
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Oven-Baked Chicken Wings with Mable-Syrup Mustard Sauce
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Toasty Goblin Taters
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+  ### Pasta Sauce
+
+  *Tools*
+
+  *Ingredients*
+
+  *Crafting*
+
+
