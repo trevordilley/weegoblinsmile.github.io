@@ -134,7 +134,7 @@ didn't salt (also called seasoning) correctly!_
   16. Plug in blender, and blend the mixture!
   17. Add a pinch of salt, stir, taste, and repeat if needed until delicious!
 
-  ### Goblin Beans
+### Goblin Beans
 
   *Tools*
   
@@ -160,7 +160,7 @@ didn't salt (also called seasoning) correctly!_
   6. Drain water (we didn't use stock but ultimately it would be wasted on this step)
   7. EAT!
 
-  ### Pulled Pork
+### Pulled Pork
 
   *Tools*
 
@@ -176,7 +176,7 @@ didn't salt (also called seasoning) correctly!_
 
   *Crafting*
 
-  ### Goblin Palak
+### Goblin Palak
 
   *Tools*
 
@@ -184,7 +184,7 @@ didn't salt (also called seasoning) correctly!_
 
   *Crafting*
 
-  ### Quinoa
+### Quinoa
 
   *Tools*
 
@@ -192,7 +192,7 @@ didn't salt (also called seasoning) correctly!_
 
   *Crafting*
 
-  ### Oven-Baked Chicken Wings with Mable-Syrup Mustard Sauce
+### Oven-Baked Chicken Wings with Mable-Syrup Mustard Sauce
 
   *Tools*
 
@@ -200,7 +200,7 @@ didn't salt (also called seasoning) correctly!_
 
   *Crafting*
 
-  ### Toasty Goblin Taters
+### Toasty Goblin Taters
 
   *Tools*
 
@@ -208,7 +208,7 @@ didn't salt (also called seasoning) correctly!_
 
   *Crafting*
 
-  ### Pasta Sauce
+### Pasta Sauce
 
   *Tools*
 
